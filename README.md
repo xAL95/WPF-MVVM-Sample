@@ -19,7 +19,7 @@ The project follows the MVVM pattern:
 ## Getting Started
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/WPF-MVVM-Sample.git
+    git clone https://github.com/xAL95/WPF-MVVM-Sample.git
     ```
 2. Open the project in Visual Studio.
 3. Build and run the project.
